@@ -1,0 +1,67 @@
+#div {
+
+    margin-left: 35%;
+
+
+}
+
+.inputDiv {
+    height: 30px;
+    width: 400px;
+    ;
+    border: 1px solid black;
+    text-align: center;
+    background-color: moccasin;
+}
+
+#input {
+    height: 25px;
+    width: 300px;
+    ;
+
+
+
+}
+
+.inputValueDiv {
+
+    height: 25px;
+    width: 400px;
+    ;
+    border: 1px solid black;
+    text-align: center;
+
+
+}
+
+#addButton {
+    float: right;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-image: url(./addbutton.png);
+
+
+}
+
+.doneButton {
+    float: left;
+    margin: 2px;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-image: url(./done-icon.png);
+
+}
+
+.deleteButton {
+    float: right;
+    margin: 2px;
+    width: 20px;
+    height: 20px;
+    background-size: cover;
+    background-image: url(./delete-icon.png);
+
+
+
+}
