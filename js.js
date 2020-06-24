@@ -28,7 +28,7 @@ function addElem() {
     childDiv.append(deleteButton);
   }
 
-  console.log(input.which);
+  // console.log(input.which);
 
   function remove() {
     childDiv.remove();
